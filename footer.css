@@ -1,0 +1,28 @@
+div.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:#023859;
+  color: white;
+  text-align: center;
+}
+.izq{
+    text-align: left;
+}
+
+.der{
+    text-align: right;
+}
+
+.centro {
+    text-align: center;
+}
+
+table.tabla-1{
+    width: 100%;
+}
+
+td.td-1{
+    width: 202px;
+}
